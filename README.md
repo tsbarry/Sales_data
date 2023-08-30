@@ -1,22 +1,31 @@
 # Sales_data
 
-https://camo.githubusercontent.com/47b319360ff61cf0de26e6756dbf83ed295f9ef606282754ff24f8fb80d30c7a/68747470733a2f2f7777772e6572612d656e7669726f6e6d656e74616c2e636f6d2f68732d66732f68756266732f45544c2d6572612d656e7669726f6e6d6574616c2d6d616e6167656d656e742e706e673f77696474683d353636266e616d653d45544c2d6572612d656e7669726f6e6d6574616c2d6d616e6167656d656e742e706e67 
-
 This project investigate the sales of electronics in the market for the years 2019 and 2020. In this data I try to get insight of type of electronic sold during these years and revenue, also examining factors to increase revenue such as the best month for sale, the best city, the best time for advertisements and also the products that are often sold together determining the revenue of the sales. 
 
 ## Libraries
 
 Pandas 
+
 Seaborn
+
 Matplotlib
+
 scipy.stats 
+
 Numpy 
+
 statsmodels.api
+
 sklearn.preprocessing
+
 sklearn.model_selection
+
 sklearn.linear_model
+
 sklearn.tree
+
 os
+
 Tableau
 
 ## Methodology
