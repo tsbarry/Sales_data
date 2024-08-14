@@ -84,6 +84,9 @@ This line plot displays the quantity of orders by hour, revealing that 11 AM and
 
 The bar graph and line plot compare the most ordered products with their respective prices. Notably, while AAA batteries are the most ordered item, they have the lowest price among the products displayed.
 
+![](image/Sales_quantity_ordered.jpg)
+
+
 ### Results Findings
 The analysis results are summarized as follows: 
 
