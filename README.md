@@ -104,5 +104,5 @@ Further actions to enhance this project could include examining which state has 
 
 
 ### Tableau 
+Tableau [Download here](https://public.tableau.com/app/profile/thierno.barry8424/viz/ElectronicSales_16927830576570/Dashboard1)
 
-https://public.tableau.com/app/profile/thierno.barry8424/viz/ElectronicSales_16927830576570/Dashboard1 
