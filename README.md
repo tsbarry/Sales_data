@@ -72,7 +72,7 @@ The bar graph and line plot above indicate that December is the peak month for s
 
 ![](image/2Best_city_for_Sales.jpg)
 
-The bar graph and line plot illustrate that Los Angeles and San Francisco are the top cities for electronic sales in California. This trend may be attributed to California being the nation's largest manufacturing state, with electronics representing a significant portion of its industrial sector. Additionally, the presence of leading technology companies, such as Tesla, further boosts electronic sales in these cities. 
+The line plot illustrates that Los Angeles and San Francisco are the top cities for electronic sales in California. This trend may be attributed to California being the nation's largest manufacturing state, with electronics representing a significant portion of its industrial sector. Additionally, the presence of leading technology companies, such as Tesla, further boosts electronic sales in these cities. 
 
 
 ![](image/order_by_hour.jpg)
