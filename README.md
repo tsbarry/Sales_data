@@ -74,25 +74,26 @@ The bar graph and line plot above indicate that December is the peak month for s
 
 The bar graph and line plot illustrate that Los Angeles and San Francisco are the top cities for electronic sales in California. This trend may be attributed to California being the nation's largest manufacturing state, with electronics representing a significant portion of its industrial sector. Additionally, the presence of leading technology companies, such as Tesla, further boosts electronic sales in these cities. 
 
+
 ![](image/order_by_hour.jpg)
 
 This line plot displays the quantity of orders by hour, revealing that 11 AM and 7 PM are the peak times for orders. This trend may be attributed to the fact that at 11 AM, many people are awake and on their lunch breaks, while at 7 PM, individuals are typically at home after work. Therefore, these hours represent optimal opportunities for advertising efforts.
 
 
 
-
 ![](image/Product_ordered_price.jpg) 
+
+
+The bar graph and line plot compare the most ordered products with their respective prices. Notably, while AAA batteries are the most ordered item, they have the lowest price among the products displayed.
+
+
+
+![](image/Sales_quantity_ordered.jpg)
 
 
 
 ![](image/Product_ordered_by_month.jpg)
 
-
-
-
-The bar graph and line plot compare the most ordered products with their respective prices. Notably, while AAA batteries are the most ordered item, they have the lowest price among the products displayed.
-
-![](image/Sales_quantity_ordered.jpg)
 
 
 ### Results Findings
