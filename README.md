@@ -11,6 +11,7 @@
 - [Results Findings](#results-findings)
 - [Recommendations](#recommendations)
 - [Next Action](#next-action)
+- [Tableau](#tableau)
 
 ### Project Overview 
 This project investigates the sales of electronics in the market for the years 2019 and 2020. The primary goal is to derive insights into the types of electronic products sold during these years and analyze the revenue generated from these sales.
@@ -65,8 +66,6 @@ EDA involved exploring the sales data to answer key questions such as:
 Here are some examples of the visuals from the analyses 
 
 ![](image/Best_Month_for_Sales.jpg)
-
-![](image/2Best_Month_for_Sales.jpg)
 
 The bar graph and line plot above indicate that December is the peak month for sales, with a remarkable sales revenue of $4,613,443.34. This trend is understandable, as many holidays occur during the October to December period, driving increased consumer spending. Consequently, October and November also show significant sales figures, reflecting the lead-up to the holiday shopping season. 
 
