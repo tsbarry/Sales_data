@@ -79,10 +79,13 @@ The bar graph and line plot illustrate that Los Angeles and San Francisco are th
 This line plot displays the quantity of orders by hour, revealing that 11 AM and 7 PM are the peak times for orders. This trend may be attributed to the fact that at 11 AM, many people are awake and on their lunch breaks, while at 7 PM, individuals are typically at home after work. Therefore, these hours represent optimal opportunities for advertising efforts.
 
 
+
+
 ![](image/Product_ordered_price.jpg) 
 
 
-![](image/Product_ordered_by month.jpg)
+
+![](image/Product_ordered_by_month.jpg)
 
 
 
