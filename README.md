@@ -1,57 +1,108 @@
-# Sales_data
+# E-Commerce Sales Analysis
 
-This project investigate the sales of electronics in the market for the years 2019 and 2020. In this data I try to get insight of type of electronic sold during these years and revenue, also examining factors to increase revenue such as the best month for sale, the best city, the best time for advertisements and also the products that are often sold together determining the revenue of the sales. 
+## Table of Contents 
 
-## Libraries
+- [Project Overview](#project-overview)
+- [Data Sources ](#data-sources)
+- [Tools](#tools)
+- [Methodology](#methodology)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis) 
+- [Results Findings](#results-findings)
+- [Recommendations](#recommendations)
+- [Next Action](#next-action)
 
-Pandas 
+### Project Overview 
+This project investigates the sales of electronics in the market for the years 2019 and 2020. The primary goal is to derive insights into the types of electronic products sold during these years and analyze the revenue generated from these sales.
 
-Seaborn
+Key objectives of the analysis include:
 
-Matplotlib
+Identifying Sales Trends: Examine which types of electronic products were most popular in 2019 and 2020, along with their respective revenue contributions.
 
-scipy.stats 
+Revenue Analysis: Evaluate overall revenue trends, pinpointing the best-performing months and cities for electronic sales.
 
-Numpy 
+Optimizing Marketing Strategies: Analyze the best times for advertisements based on sales patterns to maximize revenue potential.
 
-statsmodels.api
+Association Analysis: Investigate which products are frequently sold together to inform bundling strategies and promotional campaigns.
 
-sklearn.preprocessing
+By leveraging data analysis techniques, this project aims to provide actionable insights that can help stakeholders make informed decisions to enhance sales performance and revenue growth in the electronics market.
 
-sklearn.model_selection
+### Data Sources 
 
-sklearn.linear_model
+Data: The primary dataset used for this analysis is in the data folder. 
 
-sklearn.tree
+### Tools 
 
-os
+- Pandas- Data cleaning and processing 
+- Seaborn- Creating visuals
+- Matplotlib- Creating visuals 
+- statsmodels.api- for statical test
+- sklearn-for machine learning and statical modeling
+- Tableau -Creating reports
 
-Tableau
+### Methodology 
+  In the data analysis phase, the following tasks were performed:
+  
+  1. Data loading and inspection.
+  2. Data cleaning and manipulation using Python functions and libraries
+  3. Handling missing values
+  4. Performed EDA, and ran statical test
+  5. Created a Tableau dashboard to communicate key findings. 
 
-## Methodology
-To start I cleaned the data using Python functions and libraries, then dropped all  null values and changed some of the data types and created new columns from the existing columns for more analysis. Furthermore, usI used the new dataframe to perform EDA, CDA and also linear regression and a decision tree. Lastly, I created a tableau dashboord of the sales data. 
-## Visuals & Results
+### Exploratory Data Analysis
+
+EDA involved exploring the sales data to answer key questions such as: 
+
+- What was the best month for sales? How much was earned that month?
+- Which cities have the highest number of sales?
+- What time should we display adverts to maximize profit?
+- What products are often sold together?
+- What products are sold the most and why?
+
+
+
+### Data Analysis 
+Here are some examples of the visuals from the analyses 
 
 ![](image/Best_Month_for_Sales.jpg)
 
 ![](image/2Best_Month_for_Sales.jpg)
 
-The bar graph and lineplot above display December as the best month for sales, with a sales revenue of $4613443.34 and this is understandable because many of the holidays are during October to December that is also why October and November have  a big sale. 
+The bar graph and line plot above indicate that December is the peak month for sales, with a remarkable sales revenue of $4,613,443.34. This trend is understandable, as many holidays occur during the October to December period, driving increased consumer spending. Consequently, October and November also show significant sales figures, reflecting the lead-up to the holiday shopping season. 
 
 ![](image/Best_city_for_Sales.jpg)
+
 ![](image/2Best_city_for_Sales.jpg)
 
-In this bar graph and lineplot as illustrated the two cities of CA, Los Angeles and San Francisco are the best cities for electronic sales. This could be due to the fact that California is the nation's largest manufacturing state. Also, electronics is California's largest industrial sector, and it is home to top companies such as Tesla. 
+The bar graph and line plot illustrate that Los Angeles and San Francisco are the top cities for electronic sales in California. This trend may be attributed to California being the nation's largest manufacturing state, with electronics representing a significant portion of its industrial sector. Additionally, the presence of leading technology companies, such as Tesla, further boosts electronic sales in these cities. 
 
 ![](image/order_by_hour.jpg)
 
-This lineplot shows the quantity of orders by hours and as shown 11 am and 7 pm are the hours in which people tend to order the most and this could be because at 11 am most people are awake or at lunch and at 7 pm most people are at home from work, there these hours are best for advertisement. 
+This line plot displays the quantity of orders by hour, revealing that 11 AM and 7 PM are the peak times for orders. This trend may be attributed to the fact that at 11 AM, many people are awake and on their lunch breaks, while at 7 PM, individuals are typically at home after work. Therefore, these hours represent optimal opportunities for advertising efforts.
 
 ![](image/Product_ordered_price.jpg)
 
-The bar graph and line bar compare the most ordered product to its price, and despite being the most ordered items, the AAA batteries cost the least out of the products displayed. 
 
-# Next Action
-further action that can be taken to better this project, could be to examine which state has the most orders per hour, also I could look for more data to add to do further examination and analysis. 
-## Tableau 
+The bar graph and line plot compare the most ordered products with their respective prices. Notably, while AAA batteries are the most ordered item, they have the lowest price among the products displayed.
+
+### Results Findings
+The analysis results are summarized as follows: 
+
+1. The top revenue month is December as many holidays occur during this month. October and November also show significant sales figures, reflecting the lead-up to the holiday shopping season. 
+2. California has the best-performing cities in terms of sales and revenue.
+3. The hours of 11 am and 7 pm should be targeted for marketing efforts as they bring in the most revenue.
+4. The MacBook Pro, AAA batteries, iPhone, and gaming monitors are among the most sold products.
+
+### Recommendations 
+Based on the analysis, the following is recommended: 
+- Focus on marketing and promotional efforts during peak seasons and hours to maximize revenue.
+- Expand and promote products in major tech cities, while also exploring growth opportunities in emerging markets such as Austin, Texas, and Atlanta, Georgia
+- Develop a customer segmentation strategy to specifically target younger demographics, as they are more likely to purchase MacBooks, iPhones, and gaming products.
+  
+### Next Action
+Further actions to enhance this project could include examining which state has the highest number of orders per hour, as well as identifying the demographic segments with the most orders. Additionally, sourcing more data could enrich the analysis, enabling deeper insights and more comprehensive evaluations of sales trends and customer behavior.
+
+
+### Tableau 
+
 https://public.tableau.com/app/profile/thierno.barry8424/viz/ElectronicSales_16927830576570/Dashboard1 
