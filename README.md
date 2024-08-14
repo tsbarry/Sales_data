@@ -69,7 +69,6 @@ Here are some examples of the visuals from the analyses
 
 The bar graph and line plot above indicate that December is the peak month for sales, with a remarkable sales revenue of $4,613,443.34. This trend is understandable, as many holidays occur during the October to December period, driving increased consumer spending. Consequently, October and November also show significant sales figures, reflecting the lead-up to the holiday shopping season. 
 
-![](image/Best_city_for_Sales.jpg)
 
 ![](image/2Best_city_for_Sales.jpg)
 
@@ -79,7 +78,13 @@ The bar graph and line plot illustrate that Los Angeles and San Francisco are th
 
 This line plot displays the quantity of orders by hour, revealing that 11 AM and 7 PM are the peak times for orders. This trend may be attributed to the fact that at 11 AM, many people are awake and on their lunch breaks, while at 7 PM, individuals are typically at home after work. Therefore, these hours represent optimal opportunities for advertising efforts.
 
-![](image/Product_ordered_price.jpg)
+
+![](image/Product_ordered_price.jpg) 
+
+
+![](image/Product_ordered_by month.jpg)
+
+
 
 
 The bar graph and line plot compare the most ordered products with their respective prices. Notably, while AAA batteries are the most ordered item, they have the lowest price among the products displayed.
