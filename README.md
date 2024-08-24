@@ -41,7 +41,7 @@ Data: The primary dataset used for this analysis is in the data folder.
 - sklearn-for machine learning and statical modeling
 - Tableau -Creating reports
 
-### Methodology 
+## Methodology 
   In the data analysis phase, the following tasks were performed:
   
   1. Data loading and inspection.
@@ -50,7 +50,7 @@ Data: The primary dataset used for this analysis is in the data folder.
   4. Performed EDA, and ran statical test
   5. Created a Tableau dashboard to communicate key findings. 
 
-### Exploratory Data Analysis
+## Exploratory Data Analysis
 
 EDA involved exploring the sales data to answer key questions such as: 
 
@@ -60,9 +60,7 @@ EDA involved exploring the sales data to answer key questions such as:
 - What products are often sold together?
 - What products are sold the most and why?
 
-
-
-### Data Analysis 
+## Data Analysis 
 Here are some examples of the visuals from the analyses 
 
 ![](image/Best_Month_for_Sales.jpg)
@@ -80,13 +78,13 @@ The line plot illustrates that Los Angeles and San Francisco are the top cities 
 This line plot displays the quantity of orders by hour, revealing that 11 AM and 7 PM are the peak times for orders. This trend may be attributed to the fact that at 11 AM, many people are awake and on their lunch breaks, while at 7 PM, individuals are typically at home after work. Therefore, these hours represent optimal opportunities for advertising efforts.
 
 
-
 ![](image/Product_ordered_price.jpg) 
 
 
 The bar graph and line plot compare the most ordered products with their respective prices. Notably, while AAA batteries are the most ordered item, they have the lowest price among the products displayed.
 
-### Results Findings
+
+## Results Findings
 The analysis results are summarized as follows: 
 
 1. The top revenue month is December as many holidays occur during this month. October and November also show significant sales figures, reflecting the lead-up to the holiday shopping season. 
@@ -94,16 +92,15 @@ The analysis results are summarized as follows:
 3. The hours of 11 am and 7 pm should be targeted for marketing efforts as they bring in the most revenue.
 4. The MacBook Pro, AAA batteries, iPhone, and gaming monitors are among the most sold products.
 
-### Recommendations 
+## Recommendations 
 Based on the analysis, the following is recommended: 
 - Focus on marketing and promotional efforts during peak seasons and hours to maximize revenue.
 - Expand and promote products in major tech cities, while also exploring growth opportunities in emerging markets such as Austin, Texas, and Atlanta, Georgia
 - Develop a customer segmentation strategy to specifically target younger demographics, as they are more likely to purchase MacBooks, iPhones, and gaming products.
   
-### Next Action
+## Next Action
 Further actions to enhance this project could include examining which state has the highest number of orders per hour, as well as identifying the demographic segments with the most orders. Additionally, sourcing more data could enrich the analysis, enabling deeper insights and more comprehensive evaluations of sales trends and customer behavior.
 
-
-### Tableau 
+## Tableau 
 Tableau [Download here](https://public.tableau.com/app/profile/thierno.barry8424/viz/ElectronicSales_16927830576570/Dashboard1)
 
