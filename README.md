@@ -18,13 +18,13 @@ This project investigates the sales of electronics in the market for the years 2
 
 Key objectives of the analysis include:
 
-Identifying Sales Trends: Examine which types of electronic products were most popular in 2019 and 2020, along with their respective revenue contributions.
+  - Examine which types of electronic products were most popular in 2019 and 2020, along with their respective revenue contributions.
 
-Revenue Analysis: Evaluate overall revenue trends, pinpointing the best-performing months and cities for electronic sales.
-
-Optimizing Marketing Strategies: Analyze the best times for advertisements based on sales patterns to maximize revenue potential.
-
-Association Analysis: Investigate which products are frequently sold together to inform bundling strategies and promotional campaigns.
+  - Evaluate overall revenue trends, pinpointing the best-performing months and cities for electronic sales.
+    
+  - Analyze the best times for advertisements based on sales patterns to maximize revenue potential.
+  
+  - Investigate which products are frequently sold together to inform bundling strategies and promotional campaigns.
 
 By leveraging data analysis techniques, this project aims to provide actionable insights that can help stakeholders make informed decisions to enhance sales performance and revenue growth in the electronics market.
 
