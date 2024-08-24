@@ -13,7 +13,7 @@
 - [Next Action](#next-action)
 - [Tableau](#tableau)
 
-### Project Overview 
+## Project Overview 
 This project investigates the sales of electronics in the market for the years 2019 and 2020. The primary goal is to derive insights into the types of electronic products sold during these years and analyze the revenue generated from these sales.
 
 Key objectives of the analysis include:
@@ -34,20 +34,29 @@ Data: The primary dataset used for this analysis is in the data folder.
 
 ### Tools 
 
-- Pandas- Data cleaning and processing 
+- Pandas- Data cleaning and processing
+  
 - Seaborn- Creating visuals
-- Matplotlib- Creating visuals 
+  
+- Matplotlib- Creating visuals
+  
 - statsmodels.api- for statical test
-- sklearn-for machine learning and statical modeling
+  
+- Sklearn-for machine learning and statical modeling
+  
 - Tableau -Creating reports
 
 ## Methodology 
   In the data analysis phase, the following tasks were performed:
   
   1. Data loading and inspection.
-  2. Data cleaning and manipulation using Python functions and libraries
-  3. Handling missing values
-  4. Performed EDA, and ran statical test
+     
+  2. Data cleaning and manipulation using Python functions and libraries.
+     
+  3. Handling missing values.
+     
+  4. Performed EDA, and ran statical test.
+     
   5. Created a Tableau dashboard to communicate key findings. 
 
 ## Exploratory Data Analysis
@@ -55,9 +64,13 @@ Data: The primary dataset used for this analysis is in the data folder.
 EDA involved exploring the sales data to answer key questions such as: 
 
 - What was the best month for sales? How much was earned that month?
+  
 - Which cities have the highest number of sales?
+  
 - What time should we display adverts to maximize profit?
+  
 - What products are often sold together?
+  
 - What products are sold the most and why?
 
 ## Data Analysis 
@@ -87,15 +100,20 @@ The bar graph and line plot compare the most ordered products with their respect
 ## Results Findings
 The analysis results are summarized as follows: 
 
-1. The top revenue month is December as many holidays occur during this month. October and November also show significant sales figures, reflecting the lead-up to the holiday shopping season. 
+1. The top revenue month is December as many holidays occur during this month. October and November also show significant sales figures, reflecting the lead-up to the holiday shopping season.
+   
 2. California has the best-performing cities in terms of sales and revenue.
+   
 3. The hours of 11 am and 7 pm should be targeted for marketing efforts as they bring in the most revenue.
+   
 4. The MacBook Pro, AAA batteries, iPhone, and gaming monitors are among the most sold products.
 
 ## Recommendations 
 Based on the analysis, the following is recommended: 
 - Focus on marketing and promotional efforts during peak seasons and hours to maximize revenue.
-- Expand and promote products in major tech cities, while also exploring growth opportunities in emerging markets such as Austin, Texas, and Atlanta, Georgia
+  
+- Expand and promote products in major tech cities, while also exploring growth opportunities in emerging markets such as Austin, Texas, and Atlanta, Georgia.
+  
 - Develop a customer segmentation strategy to specifically target younger demographics, as they are more likely to purchase MacBooks, iPhones, and gaming products.
   
 ## Next Action
